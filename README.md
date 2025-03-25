@@ -1,7 +1,7 @@
 # 📊 Dashboard de Ventas - Tienda de Vinilos
 
-**Autor:** Affectus Jaureguizar  
-**Fecha:** 23 de marzo, 2025  
+### Autor: Affectus Jaureguizar  
+### Fecha: 23 de marzo, 2025  
 
 ---
 
@@ -47,6 +47,35 @@ Ofrecer una visualización clara, accesible y profesional que permita:
 - Seaborn, Matplotlib, Plotly  
 - Ipywidgets, Jupyter Notebook
 
+---
+
+## ▶️ Cómo ejecutar este proyecto
+
+Este proyecto fue desarrollado en **Jupyter Notebook** y utiliza visualizaciones interactivas con `plotly` e `ipywidgets`.
+
+### Pasos para ejecutarlo localmente:
+
+1. Asegúrate de tener instalado **Python 3** y **Jupyter Notebook** o JupyterLab.  
+   Puedes instalar Jupyter fácilmente con Anaconda o usando `pip`:
+   ```bash
+   pip install notebook
+
+2. Clona este repositorio o descarga los archivos manualmente:
+   
+   git clone https://github.com/affec-ds/dashboard-ventas-vinilos.git
+
+3. Navega a la carpeta del proyecto:
+   cd dashboard-ventas-vinilos
+
+4. Instala las dependencias necesarias:
+   pip install pandas numpy matplotlib seaborn plotly ipywidgets
+
+5. Ejecuta el Jupyter Notebook:
+   jupyter notebook
+
+6. Abre y ejecuta el archivo para generar el dashboard interactivo:
+   Dashboard de Ventas Simulado para Tienda de Vinilos.ipynb
+   
 ---
 
 ## 📩 Contacto
