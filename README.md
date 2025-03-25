@@ -61,19 +61,23 @@ Este proyecto fue desarrollado en **Jupyter Notebook** y utiliza visualizaciones
    pip install notebook
 
 2. Clona este repositorio o descarga los archivos manualmente:
-   
+   ```bash
    git clone https://github.com/affec-ds/dashboard-ventas-vinilos.git
 
 3. Navega a la carpeta del proyecto:
+   ```bash
    cd dashboard-ventas-vinilos
 
-4. Instala las dependencias necesarias:
+5. Instala las dependencias necesarias:
+   ```bash
    pip install pandas numpy matplotlib seaborn plotly ipywidgets
 
-5. Ejecuta el Jupyter Notebook:
+7. Ejecuta el Jupyter Notebook:
+   ```bash
    jupyter notebook
 
-6. Abre y ejecuta el archivo para generar el dashboard interactivo:
+9. Abre y ejecuta el archivo para generar el dashboard interactivo:
+    ```bash
    Dashboard de Ventas Simulado para Tienda de Vinilos.ipynb
    
 ---
