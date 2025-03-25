@@ -51,8 +51,9 @@ Ofrecer una visualización clara, accesible y profesional que permita:
 
 ## 📩 Contacto
 
+**Conectemos en LinkedIn**: [https://cl.linkedin.com/in/affectusjaureguizar](https://cl.linkedin.com/in/affectusjaureguizar)
+
 **GitHub**: [https://github.com/affec-ds](https://github.com/affec-ds)  
-**LinkedIn**: [https://cl.linkedin.com/in/affectusjaureguizar](https://cl.linkedin.com/in/affectusjaureguizar)
 
 ---
 
